@@ -1,4 +1,4 @@
-package entregas.castilloCayetano;
+package src;
 
 public class Viewport {
     private HojaDeCalculo hoja;
@@ -86,6 +86,10 @@ public class Viewport {
     
     public int getColumnaCursorGlobal() {
         return columnaInicio + columnaCursor;
+    }
+
+    public HojaDeCalculo getHoja() {
+        return hoja;
     }
 
 }

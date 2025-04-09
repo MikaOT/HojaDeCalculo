@@ -1,5 +1,4 @@
-package entregas.castilloCayetano;
-
+package src;
 public class Celda {
     
     private String contenido;

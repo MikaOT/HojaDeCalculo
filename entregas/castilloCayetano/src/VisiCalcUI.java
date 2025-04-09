@@ -1,6 +1,7 @@
-package entregas.castilloCayetano;
+package src;
 
 import java.util.Scanner;
+
 import librerias.Consola;
 
 public class VisiCalcUI {
